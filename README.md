@@ -1,0 +1,2 @@
+# lagouspider
+使用Scrapy中的CrawlSpider类爬取拉钩信息
